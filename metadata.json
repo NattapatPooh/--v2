@@ -1,0 +1,6 @@
+{
+  "name": "เกมทายคำศัพท์ภาษาไทยมหาสนุก",
+  "description": "เกมทายคำศัพท์ภาษาไทยสำหรับนักเรียนชั้นประถมศึกษาปีที่ 3 ฝึกสะกดคำ 6 หมวดหมู่ 120 ด่าน พร้อมระบบดาวและภาพประกอบไทยน่ารักสดใส",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
